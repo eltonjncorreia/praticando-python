@@ -1,0 +1,1 @@
+mexendo com arquivos de texto em python
