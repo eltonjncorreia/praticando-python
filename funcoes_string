@@ -1,0 +1,10 @@
+def st(valor):
+	if type(valor) == int():
+		return	valor = '%d' % valor
+	elif type(valor) == float():
+		return valor = '%f' % valor
+	else:
+		return valor
+		
+		
+	
